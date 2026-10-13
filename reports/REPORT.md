@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Phạm Quân / 2A202602890  **Commit:** a3f9ce7  **Điểm tự động (`make grade`):** 78 / 88
+**Họ tên / nhóm:** Phạm Quân / 2A202602890  **Commit:** a0887b7  **Điểm tự động (`make grade`):** 78 / 88
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
